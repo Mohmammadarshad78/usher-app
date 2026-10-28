@@ -1,0 +1,6 @@
+{
+  "name": "عشر و تنظیمی ذمہ داران جائزہ و کارکردگی پورٹل",
+  "description": "شعبہ عشر، تحصیل، ڈسٹرکٹ، ڈویژن و صوبائی ذمہ داران کا روزانہ جائزہ، گاؤں سیٹ اپ، پیشگی جدول، لائیو لوکیشن اور ماہانہ رپورٹس پورٹل",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
